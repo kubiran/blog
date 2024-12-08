@@ -1,2 +1,2 @@
-#The Kubiran Blog
+The Kubiran Blog
 ============================
